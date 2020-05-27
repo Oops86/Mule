@@ -1,0 +1,21 @@
+//--------rings----------
+[name] == ring && [quality] == magic # [fcr] == 10 && [fireresist] >= 12 && [coldresist] >= 12
+[name] == ring && [quality] == magic # [fcr] == 10 && [maxmana] >= 100
+[name] == ring && [quality] == magic # [itemmagicbonus] >= 25
+
+//-------amulets-------
+[name] == amulet && [quality] == magic # [itemmagicbonus] >= 40
+[name] == amulet && [quality] == magic # [warcriesskilltab] == 3 && ([itemgoldbonus] >= 50 || [maxhp] >= 60)
+[name] == amulet && [quality] == magic # ([shadowdisciplinesskilltab] == 3 || [poisonandboneskilltab] == 3 || [palicombatskilltab] == 3) && [maxhp] >= 60
+[name] == amulet && [quality] == magic # ([coldskilltab] == 3 || [lightningskilltab] == 3 || [fireskilltab] == 3) && [maxhp] >= 60
+[name] == amulet && [quality] == magic # ([paladinskills] == 2 || [palicombatskilltab] == 3 || [sorceressskills] == 2 || [lightningskilltab] == 3) && [normaldamagereduction] == 25
+
+//------------armor-------------
+[type] == armor && [quality] == magic && [class] == elite && [flag] != ethereal # [sockets] == 4 && ([fhr] >= 17 || [maxhp] >= 70)
+([name] == gothicplate || [name] == ancientarmor) && [quality] == magic && [flag] != ethereal # [sockets] == 4 && ([fhr] >= 17 || [maxhp] >= 70)
+
+//----------shields-------------
+[type] == shield && [quality] == magic && [flag] != ethereal # [sockets] >= 3 && [fbr] == 30 // jmod
+[type] == shield && [quality] == magic && [flag] != ethereal # [sockets] >= 3 && [fhr] == 17 // jmoe
+[type] == shield && [quality] == magic && [flag] != ethereal # [sockets] >= 3 && [maxhp] >= 41 // jmoc
+[type] == shield && [quality] == magic && [flag] != ethereal # [sockets] >= 3 && [itemreqpercent] == -30 // jmos

@@ -1,0 +1,143 @@
+//          ==unique==
+
+//--------rings----------
+//[name] == ring && [quality] == unique # [itemmagicbonus] >= 25// nagel
+//[name] == ring && [quality] == unique # [dexterity] >= 15 && [tohit] >= 240 // raven
+//[name] == ring && [quality] == unique # [dexterity] >= 19 && [tohit] == 150 // raven
+//[Name] == Ring && [Quality] == Unique # [PoisonResist] >= 20 && [PoisonResist] <= 30// Nature's Peace
+
+//-------amulets-------
+[name] == amulet && [quality] == unique # [strength] == 5 && [fireresist] >= 20 // mara
+//[name] == amulet && [quality] == unique # [lightresist] == 35 // highlord
+//[name] == amulet && [quality] == unique # [dexterity] == 25 // cat's ey
+
+//------------armor--------------
+//[name] == duskshroud && [quality] == unique
+//[name] == wirefleece && [quality] == unique && [flag] == ethereal // gladiator's bane
+//[name] == balrogskin && [quality] == unique # [itemallskills] == 2 // arkaine's valor
+//[name] == krakenshell && [quality] == unique # [damageresist] >= 24 // leviathan
+//[name] == shadowplate && [quality] == unique && [flag] == ethereal // steel carapace
+[name] == sacredarmor && [quality] == unique && [flag] == ethereal // templar's might
+//[name] == serpentskinarmor && [quality] == unique // skin of the vipermagi
+//[name] == demonhidearmor && [quality] == unique && [flag] == ethereal  // skin of the flayed one eth
+//[name] == linkedmail && [quality] == unique && [flag] == ethereal  // spirit forge eth
+//[name] == cuirass && [quality] == unique && [flag] == ethereal // duriel's shell eth
+//[name] == tigulatedmail && [quality] == unique && [flag] == ethereal // crow caw eth
+//[name] == mesharmor && [quality] == unique && [flag] == ethereal  // shaftstop eth
+//[name] == russetarmor && [quality] == unique && [flag] == ethereal // skullder's eth
+//[name] == templarcoat && [quality] == unique && [flag] == ethereal // guardian angel eth
+//[name] == chaosarmor && [quality] == unique && [flag] == ethereal // black hades
+
+//----------shields-------------
+[name] == monarch && [quality] == unique // stormshield
+[name] == trollnest && [quality] == unique && [flag] == !ethereal # [sockets] == 3 // head hunter's glory
+[name] == barbedshield && [quality] == unique && [flag] == ethereal  // lanceguard eth
+//[name] == grimshield && [quality] == unique # [energy] == 10 // lidless wall
+[name] == sacredrondache && [quality] == unique # [paladinskills] == 2 // alma negra
+//[name] == gildedshield && [quality] == unique  // herald of zakarum
+
+//-----------helms-----------------
+//[name] == sallet && [quality] == unique && [flag] == ethereal  // rockstopper
+//[name] == grandcrown && [quality] == unique && [flag] != ethereal # [itemgoldbonus] >= 90 || [enhanceddefense] >= 200 || [lifeleech] >= 12 //crown of thieves
+[name] == grandcrown && [quality] == unique && [flag] == ethereal // crown of thieves eth
+//[name] == grimhelm && [quality] == unique && [flag] == ethereal # // vampgaze eth
+[name] == grimhelm && [quality] == unique && [flag] == ethereal # // vampgaze eth
+//[name] == grimhelm && [quality] == unique && [flag] != ethereal # [damageresist] >= 20 // vampgaze
+[name] == shako && [quality] == unique && [flag] != ethereal # [strength] == 2 // harlequin crest
+[name] == spiredhelm && [quality] == unique # [passivecoldmastery] >= 8 // nightwing's veil
+[name] == demonhead && [quality] == unique // andariel's visage
+[name] == bonevisage && [quality] == unique # [sockets] == 2 // giant skull
+
+//-------------circlets----------------
+[name] == tiara && [quality] == unique # [fireresist] == 69 //kira's guardian
+
+//--------------gloves-------------
+//[name] == vampirebonegloves && [quality] == unique && [flag] != ethereal  // dracul's grasp
+[name] == ogregauntlets && [quality] == unique // steelrend
+//[name] == chaingloves && [quality] == unique && [flag] != ethereal # [itemmagicbonus] >= 38 // chance guard
+
+//----------------boots--------------
+//[name] == warboots && [quality] == unique // gore rider
+[name] == scarabshellboots && [quality] == unique && [flag] == ethereal // sandstorm trek eth
+//[name] == scarabshellboots && [quality] == unique && [flag] != ethereal # [strength]+[vitality] >= 25 // sandstorm trek
+[name] == myrmidongreaves && [quality] == unique && [flag] != ethereal // shadow dancer
+[name] == demonhideboots && [quality] == unique && [flag] != ethereal # [itemgoldbonus] == 70 // infernostride
+[name] == sharkskinboots && [quality] == unique && [flag] != ethereal # [maxhp] == 65 //waterwalk
+//[name] == battleboots && [quality] == unique && [flag] != ethereal  //war traveler
+[name] == boots && [quality] == unique && [flag] != ethereal # [enhanceddefense] == 20 // hotspur1
+
+//----------------belts----------------
+[name] == spiderwebsash && [quality] == unique && [flag] != ethereal //arachnid mesh
+[name] == vampirefangbelt && [quality] == unique && [flag] != ethereal # [lifeleech] == 7 // nosferatu's coil
+[name] == mithrilcoil && [quality] == unique && [flag] != ethereal # [damageresist] == 15 || [vitality] == 40 // verdungo's hearty cord
+//[name] == demonhidesash && [quality] == unique && [flag] != ethereal # [damageresist] == 15 || [lifeleech] == 8  // string of ears
+[name] == battlebelt  && [quality] == unique && [flag] != ethereal  // snowclash
+[name] == warbelt && [quality] == unique && [flag] != ethereal  // thundergod's vigor
+[name] == heavybelt && [quality] == unique && [flag] != ethereal # [itemgoldbonus] == 80 // goldwrap
+
+//----------------weapons---------------
+//[name] == tomahawk && [quality] == unique && [flag] == ethereal // razor's edge
+//[name] == ettinaxe && [quality] == unique && [flag] == ethereal # [sockets] == 5 //rune master
+//[name] == berserkeraxe && [quality] == unique // death cleaver
+[name] == wardbow && [quality] == unique # [skillguidedarrow] == 5 //widowmaker
+[name] == hydrabow && [quality] == unique //windforce
+//[name] == boneknife && [quality] == unique //wizardspike
+[name] == fangedknife && [quality] == unique && [flag] == ethereal // fleshripper
+[name] == ghostglaive && [quality] == unique # [enhanceddamage] == 190
+[name] == scourge && [quality] == unique && [flag] == ethereal //stormlash
+[name] == thresher && [quality] == unique && [flag] == ethereal // the reaper's toll
+//[name] == yari && [quality] == unique && [flag] == ethereal  // hone sundan
+[name] == ghostspear && [quality] == unique && [flag] == ethereal && [flag] == identified // hone sundan x1
+[name] == elderstaff && [quality] == unique # [itemallskills] == 4  // ondal's wisdom
+//[name] == quarterstaff && [quality] == unique && [flag] == ethereal  //ribcracker
+//[name] == espandon && [quality] == unique && [flag] == ethereal // crainte vomir
+//[name] == phaseblade && [quality] == unique // azurewrath
+//[name] == tulwar && [quality] == unique && [flag] == ethereal // blade of ali baba
+//[name] == battlesword && [quality] == unique && [flag] == ethereal // headstriker
+//[name] == wingedknife && [quality] == unique && [flag] == ethereal // warshrike
+//[name] == wingedaxe && [quality] == unique && [flag] == ethereal // lacerator
+//[name] == flyingaxe && [quality] == unique && [flag] != ethereal // gimmershard
+[name] == ceremonialjavelin && [quality] == unique && [flag] == ethereal // titan's revenge
+//[name] == ceremonialjavelin && [quality] == unique && [flag] == ethereal # [enhanceddamage] >=198 // titan's revenge
+//[name] == matriarchaljavelin && [quality] == unique # [javelinandspearskilltab] == 4 // thunderstroke
+//[name] == bloodlordskull && [quality] == unique && [flag] != ethereal # [enhanceddefense] == 150 && [poisonandboneskilltab]+[necromancersummoningskilltab] == 6 //darkforce spawn
+//[name] == succubusskull && [quality] == unique && [flag] != ethereal # [necromancerskills] == 2 // boneflame
+//[name] == hierophanttrophy && [quality] == unique && [flag] != ethereal // homunculus
+
+// barbarian
+//[name] == slayerguard && [quality] == unique # [enhanceddefense] >= 180 // arreat's face
+//[name] == furyvisor && [quality] == unique && [flag] != ethereal # [warcriesskilltab] == 3 && [skillwerewolf]+[skilllycanthropy]+[skillferalrage] >= 13 && [strength]+[dexterity]+[vitality] >= 40 // wolfhowl
+
+// sorceress
+[name] == eldritchorb && [quality] == unique # [sorceressskills] == 3 && ([passiveltngmastery] == 20 || [passivefiremastery] == 20)// eschuta's temper
+[name] == swirlingcrystal && [quality] == unique # [sorceressskills] == 3 // oculus
+
+// druid
+//[name] == bloodspirit && [quality] == unique #[shapeshiftingskilltab] == 4  // cerebus' bite
+
+[Name] == jewel && [quality] == unique # [passivecoldpierce]+[passivecoldmastery] >= 9 || [passivepoispierce]+[passivepoismastery] >= 9 || [passiveltngpierce]+[passiveltngmastery] >= 8 || [passivefirepierce]+[passivefiremastery] >= 8
+
+// --set items--
+
+// --tal rasha's--
+//[name] == swirlingcrystal && [quality] == set
+//[name] == deathmask && [quality] == set
+[name] == amulet && [quality] == set # [lightresist] == 33
+//[name] == meshbelt && [quality] == set # [itemmagicbonus] >= 10 
+
+// --aldur's--
+[name] == battleboots && [quality] == set # [fireresist] == 50
+
+// --immortal king's--
+[name] == avengerguard && [quality] == set # [itemmagicbonus] == 40
+[name] == Sacred Armor && [quality] == set
+
+// --trang-oul's--
+[name] == heavybracers && [quality] == set # [defense] == 74
+[name] == trollbelt && [quality] == set 
+[name] == bonevisage && [quality] == set 
+
+// griswold's
+[name] == caduceus && [quality] == set # [sockets] == 4
+[name] == corona  && [quality] == set # [itemmagicbonus] == 30
+[name] == vortexshield && [quality] == set 
