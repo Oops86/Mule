@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"ne5","title":"Hierophant Trophy","description":"\\xffc4Hierophant Trophy (69)\\n\\xffc0Defense: 71\\n\\xffc0\\xffc0Chance to Block: \\xffc337%\\n\\xffc0Durability: 16 of 20\\n\\xffc1(Necromancer Only)\\n\\xffc1Required Strength: 58\\n\\xffc1Unidentified$3491862484:487:3:0:0","header":"Armi30k-1 / ArmiYkk-ba","sockets":[]}

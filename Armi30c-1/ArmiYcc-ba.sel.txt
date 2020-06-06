@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"hbt","title":"War Boots","description":"\\xffc4War Boots (75)\\n\\xffc0Defense: 54\\n\\xffc0Durability: 15 of 24\\n\\xffc1Required Strength: 125\\n\\xffc1Unidentified$538839451:389:3:0:0","header":"Armi30c-1 / ArmiYcc-ba","sockets":[]}

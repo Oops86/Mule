@@ -1,0 +1,1 @@
+{"itemColor":13,"image":"ob5","title":"Swirling Crystal","description":"\\xffc2Swirling Crystal (75)\\n\\xffc0One-Hand Damage: 18 to 42\\n\\xffc0Durability: 33 of 50\\n\\xffc1(Sorceress Only)\\n\\xffc0Staff Class - Normal Attack Speed\\n\\xffc1Unidentified$2383886347:290:3:0:0","header":"Armi30o-1 / ArmiYoo-ba","sockets":[]}
