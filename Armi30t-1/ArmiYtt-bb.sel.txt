@@ -1,0 +1,4 @@
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$2333228186:647:3:0:0","header":"Armi30t-1 / ArmiYtt-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$1166614093:648:3:0:2","header":"Armi30t-1 / ArmiYtt-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$204749980:647:3:1:0","header":"Armi30t-1 / ArmiYtt-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$3505955235:648:3:1:2","header":"Armi30t-1 / ArmiYtt-bb","sockets":[]}

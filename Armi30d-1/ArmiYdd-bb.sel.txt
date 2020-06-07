@@ -1,0 +1,3 @@
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$1348602049:647:3:2:0","header":"Armi30d-1 / ArmiYdd-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$330477666:649:3:3:0","header":"Armi30d-1 / ArmiYdd-bb","sockets":[]}
+{"itemColor":-1,"image":"rng","title":"Superior Ring Mail","description":"\\xffc5Superior Ring Mail (20)\\n\\xffc0Defense: \\xffc356\\n\\xffc0Durability: 26 of 26\\n\\xffc1Required Strength: 36\\n\\xffc3+15% Enhanced Defense\\n\\xffc3Socketed (3)$1837176502:317:3:0:0","header":"Armi30d-1 / ArmiYdd-bb","sockets":["gemsocket","gemsocket","gemsocket"]}

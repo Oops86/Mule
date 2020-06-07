@@ -1,0 +1,12 @@
+{"itemColor":-1,"image":"cm11","title":"Serpent's Small Charm of Inertia","description":"\\xffc3Serpent's Small Charm of Inertia (81)\\n\\xffc0Keep in Inventory to Gain Bonus\\n\\xffc1Required Level: 40\\n\\xffc3+3% Faster Run/Walk\\n\\xffc3+17 to Mana$797523814:603:3:9:3","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$3045145814:647:3:0:0","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$1522572907:649:3:0:2","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$3177197365:649:3:1:0","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$3467646874:647:3:1:2","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$1733823437:648:3:2:0","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$2348167510:648:3:4:2","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$1876526426:649:3:5:0","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$706911729:649:3:5:2","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$1116247932:647:3:6:0","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"hgl","title":"Ogre Gauntlets","description":"\\xffc4Ogre Gauntlets (85)\\n\\xffc0Defense: 65\\n\\xffc0Durability: 23 of 24\\n\\xffc1Required Strength: 185\\n\\xffc1Unidentified$3753052852:454:3:3:0","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}
+{"itemColor":-1,"image":"vbt","title":"Scarabshell Boots","description":"\\xffc4Scarabshell Boots (75)\\n\\xffc0Defense: 99\\n\\xffc0Durability: 8 of 8\\n\\xffc1Required Strength: 81\\n\\xffc1Unidentified\\n\\xffc3Ethereal (Cannot be Repaired)$2745959910:456:3:2:2:eth","header":"Armi30f-1 / ArmiYff-bb","sockets":[]}

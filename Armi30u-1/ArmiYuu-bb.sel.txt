@@ -1,0 +1,7 @@
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$3833954948:648:3:2:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$1916969282:647:3:3:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$958476449:647:3:4:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$2358286416:648:3:5:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$2307830794:648:3:6:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$2634191706:647:3:7:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":[]}
+{"itemColor":-1,"image":"ltp","title":"Superior Mage Plate","description":"\\xffc5Superior Mage Plate (85)\\n\\xffc0Defense: \\xffc3290\\n\\xffc0Durability: 69 of 69\\n\\xffc1Required Strength: 55\\n\\xffc1Required Level: 25\\n\\xffc3+11% Enhanced Defense\\n\\xffc3Increase Maximum Durability 15%\\n\\xffc3Socketed (3)$3909813513:373:3:0:0","header":"Armi30u-1 / ArmiYuu-bb","sockets":["gemsocket","gemsocket","gemsocket"]}

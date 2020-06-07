@@ -1,0 +1,9 @@
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$1233267625:648:3:0:0","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$3032552916:649:3:0:2","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$1516276458:649:3:1:0","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$758130037:647:3:1:2","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$2258113210:647:3:2:0","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$2980447406:647:3:2:2","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$4034798992:649:3:3:0","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"amu2","title":"Mara's Kaleidoscope Amulet","description":"\\xffc4Mara's Kaleidoscope (86)\\n\\xffc4Amulet\\n\\xffc1Required Level: 67\\n\\xffc3+2 to All Skills\\n\\xffc3+5 to all Attributes\\n\\xffc3All Resistances +27$504341682:520:3:9:2","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}
+{"itemColor":-1,"image":"rin3","title":"Corruption Master Ring","description":"\\xffc8Corruption Master (83)\\n\\xffc8Ring\\n\\xffc1Required Level: 63\\n\\xffc3+10% Faster Cast Rate\\n\\xffc3+81 to Attack Rating\\n\\xffc31% Life stolen per hit\\n\\xffc3+4 to Strength\\n\\xffc3+11 to Life\\n\\xffc3Replenish Life +7\\n\\xffc3Cold Resist +13%$1129056605:522:3:9:3","header":"Armi30i-1 / ArmiYii-bb","sockets":[]}

@@ -1,0 +1,26 @@
+{"itemColor":-1,"image":"cm33","title":"Fine Grand Charm of Balance","description":"\\xffc3Fine Grand Charm of Balance (80)\\n\\xffc0Keep in Inventory to Gain Bonus\\n\\xffc1Required Level: 16\\n\\xffc3+12% Faster Hit Recovery\\n\\xffc3+6 to Maximum Damage\\n\\xffc3+32 to Attack Rating$1211111727:605:7:2:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$3021474967:647:7:2:3","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$3389785675:648:7:2:5","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$4110811941:647:7:3:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$3934454162:648:7:3:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$1967227081:648:7:3:4","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$2862653540:647:7:3:6","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$715659289:648:3:2:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$2236877836:648:3:3:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$1118438918:649:3:4:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$559219459:647:3:5:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$2158657921:649:3:6:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$3495239872:647:3:7:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$1747619936:648:3:8:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$873801776:649:3:9:0","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$436900888:647:3:9:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$218442252:649:3:8:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$109221126:648:3:7:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$54602371:647:3:6:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk3","title":"Key of Destruction","description":"\\xffc8Key of Destruction (95)$2443220289:649:3:5:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk1","title":"Key of Terror","description":"\\xffc8Key of Terror (82)$3844190871:647:3:4:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"pk2","title":"Key of Hate","description":"\\xffc8Key of Hate (80)$3779607717:648:3:3:2","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":16,"image":"invxrnu","title":"Crown of Thieves Grand Crown","description":"\\xffc4Crown of Thieves (75)\\n\\xffc4Grand Crown\\n\\xffc0Defense: \\xffc3313\\n\\xffc0Durability: 43 of 50\\n\\xffc1Required Strength: 103\\n\\xffc1Required Level: 49\\n\\xffc311% Life stolen per hit\\n\\xffc3+175% Enhanced Defense\\n\\xffc3+25 to Dexterity\\n\\xffc3+50 to Life\\n\\xffc3+35 to Mana\\n\\xffc3Fire Resist +33%\\n\\xffc397% Extra Gold from Monsters$2422223454:357:7:0:6","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"aar","title":"Sacred Armor","description":"\\xffc4Sacred Armor (88)\\n\\xffc0Defense: 901\\n\\xffc0Durability: 31 of 31\\n\\xffc1Required Strength: 222\\n\\xffc1Unidentified\\n\\xffc3Ethereal (Cannot be Repaired)$1431318578:442:3:0:0:eth","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"spk","title":"Barbed Shield","description":"\\xffc4Barbed Shield (87)\\n\\xffc0Defense: 118\\n\\xffc0\\xffc0Chance to Block: \\xffc342%\\n\\xffc0Durability: 28 of 28\\n\\xffc1Required Strength: 55\\n\\xffc1Unidentified\\n\\xffc3Ethereal (Cannot be Repaired)$25266554:397:7:0:0:eth","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
+{"itemColor":-1,"image":"kit","title":"Monarch","description":"\\xffc0Monarch (86)\\n\\xffc0Defense: 136\\n\\xffc0\\xffc0Chance to Block: \\xffc347%\\n\\xffc0Durability: 67 of 86\\n\\xffc1Required Strength: 156\\n\\xffc1Required Level: 54$12625085:447:7:0:3","header":"Armi30b-1 / ArmiYbb-bb","sockets":[]}
