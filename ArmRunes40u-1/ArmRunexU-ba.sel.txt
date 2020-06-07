@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"rin3","title":"The Stone of Jordan Ring","description":"\\xffc4The Stone of Jordan (75)\\n\\xffc4Ring\\n\\xffc1Required Level: 29\\n\\xffc3+1 to All Skills\\n\\xffc3Adds 1-12 lightning damage\\n\\xffc3+20 to Mana\\n\\xffc3Increase Maximum Mana 25%$766807797:522:3:9:3","header":"ArmRunes40u-1 / ArmRunexU-ba","sockets":[]}
