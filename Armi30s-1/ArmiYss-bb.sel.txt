@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"chn","title":"Boneweave","description":"\\xffc5Boneweave (80)\\n\\xffc0Defense: 1077\\n\\xffc0Durability: 23 of 23\\n\\xffc1Required Strength: 148\\n\\xffc1Required Level: 47\\n\\xffc3Ethereal (Cannot be Repaired), Socketed (4)$3240868446:435:3:0:0:eth","header":"Armi30s-1 / ArmiYss-bb","sockets":["gemsocket","gemsocket","gemsocket","gemsocket"]}
