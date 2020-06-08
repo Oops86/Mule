@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"vgl","title":"Vampirebone Gloves","description":"\\xffc4Vampirebone Gloves (86)\\n\\xffc0Defense: 66\\n\\xffc0Durability: 8 of 14\\n\\xffc1Required Strength: 50\\n\\xffc1Unidentified$2096971127:451:3:0:0","header":"Armi30e-1 / ArmiYee-bc","sockets":[]}
