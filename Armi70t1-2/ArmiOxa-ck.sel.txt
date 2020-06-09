@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"cm22","title":"Large Charm","description":"\\xffc4Large Charm (99)\\n\\xffc0Keep in Inventory to Gain Bonus\\n\\xffc1Unidentified$3691166227:604:3:9:0","header":"Armi70t1-2 / ArmiOxa-ck","sockets":[]}
