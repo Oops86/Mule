@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"cm32","title":"Lion Branded Grand Charm of Greed","description":"\\xffc3Lion Branded Grand Charm of Greed (82)\\n\\xffc0Keep in Inventory to Gain Bonus\\n\\xffc1Required Level: 42\\n\\xffc3+1 to Combat Skills (Paladin Only)\\n\\xffc331% Extra Gold from Monsters$1449132088:605:3:0:0","header":"Armi30i-1 / ArmiYii-be","sockets":[]}
