@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"cm31","title":"Lion Branded Grand Charm","description":"\\xffc3Lion Branded Grand Charm (85)\\n\\xffc0Keep in Inventory to Gain Bonus\\n\\xffc1Required Level: 42\\n\\xffc3+1 to Combat Skills (Paladin Only)$2368277198:605:3:0:0","header":"Armi30r-1 / ArmiYrr-bf","sockets":[]}
