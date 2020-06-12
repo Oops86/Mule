@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"pa4","title":"Gilded Shield","description":"\\xffc4Gilded Shield (80)\\n\\xffc0Defense: 169\\n\\xffc0\\xffc0Chance to Block: \\xffc347%\\n\\xffc0Durability: 40 of 50\\n\\xffc1(Paladin Only)\\n\\xffc1Required Strength: 89\\n\\xffc1Unidentified$2259170902:481:3:0:0","header":"Armi30e-1 / ArmiYee-bg","sockets":[]}
