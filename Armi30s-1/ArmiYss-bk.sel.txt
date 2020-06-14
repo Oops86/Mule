@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"cm11","title":"Toxic Small Charm of Inertia","description":"\\xffc3Toxic Small Charm of Inertia (81)\\n\\xffc0Keep in Inventory to Gain Bonus\\n\\xffc1Required Level: 55\\n\\xffc3+3% Faster Run/Walk\\n\\xffc3+100 poison damage over 5 seconds$1719306655:603:3:9:3","header":"Armi30s-1 / ArmiYss-bk","sockets":[]}
