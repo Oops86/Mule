@@ -1,0 +1,1 @@
+{"itemColor":-1,"image":"gth","title":"Superior Embossed Plate","description":"\\xffc0Superior Embossed Plate (80)\\n\\xffc0Defense: \\xffc3349\\n\\xffc0Durability: 45 of 55\\n\\xffc1Required Strength: 125\\n\\xffc1Required Level: 25\\n\\xffc3+15% Enhanced Defense$893060036:370:3:0:0","header":"Armi30k-1 / ArmiYkk-bi","sockets":[]}
